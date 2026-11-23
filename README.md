@@ -1,16 +1,26 @@
-## Hi there 👋
+### I'm onlygullysquad 👋
 
-<!--
-**onlygullysquad/onlygullysquad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building responsive web interfaces with TypeScript & React. Curious about design systems. Based in Vietnam.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>Quick intro</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about React
+- ✨ I prefer boring solutions that work
+- 🔭 Currently working on accessible UI
+- 🚀 Interested in web performance
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=onlygullysquad&hide_border=true&theme=merko" alt="Commit streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=onlygullysquad&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=merko" alt="onlygullysquad GitHub stats" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=onlygullysquad&hide_border=true&theme=react" alt="Contribution graph" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlygullysquad&layout=compact&langs_count=8&hide_border=true&theme=merko" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-7aa2f7?style=for-the-badge&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TailwindCSS-7aa2f7?style=for-the-badge&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/TypeScript-7aa2f7?style=for-the-badge&logoColor=white" alt="TypeScript" />
+</p>
+
+</details>
+
+<sub>Drop a star if any of my repos helps you.</sub>
